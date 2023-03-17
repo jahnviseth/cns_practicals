@@ -1,2 +1,2 @@
 # cns_practicals
-Cryptography and Network Security Practicals, Sem 5
+Cryptography and Network Security Practicals, Sem 6
